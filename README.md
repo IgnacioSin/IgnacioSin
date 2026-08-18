@@ -8,7 +8,7 @@ I'm a Computer Science student in Córdoba, Argentina, currently working as an A
 
 I care about the deeper, less visible side of AI engineering. That means evaluation, retrieval quality, and everything that happens after the demo stops being a demo.
 
-- 🔨 Right now I'm building projects that integrate AI. , with the goal of learning how to deploy something real and useful
+- 🔨 Right now I'm building projects that integrate AI, with the goal of learning how to deploy something real and useful
 - 🧪 Most of my interest sits in the parts of LLM systems that are hard to fake: how you measure whether retrieval is actually working, how you catch an agent failing quietly, and what reliability costs in latency and tokens
 - 🖥️ I run quantized models locally, mostly to find out where small models break and why
 - 🗂️ I keep an Obsidian vault wired up to an LLM as a second brain - which is either a productivity system or a very elaborate way to avoid studying
